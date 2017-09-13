@@ -9,6 +9,3 @@ def display_rainbow(color)
   puts "#{color[0]}"
 
 end
-  
-  
-  
