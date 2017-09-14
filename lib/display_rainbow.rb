@@ -1,4 +1,5 @@
 def display_rainbow(color)
+  puts "R: #{color[0]}, O: #{color[1]}, Y: #{color[2]}, G: #{color[3]}, B: #{color[4]}, I: #{color[5]}, V: #{color[6]}"
   puts "R: #{color[0]}"
   puts "O: #{color[1]}"
   puts "Y: #{color[2]}"
@@ -7,3 +8,4 @@ def display_rainbow(color)
   puts "I: #{color[5]}"
   puts "V: #{color[6]}"
   end
+
